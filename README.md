@@ -17,7 +17,10 @@ A minimal **Task Manager** built with **React**, **TypeScript**, and **Tailwind 
 
 ## Getting Started
 
-git clone https://github.com/arshagarwal08/taskManager.git
-cd taskManager
-npm install
-npm run dev
+  git clone https://github.com/arshagarwal08/taskManager.git
+
+  cd taskManager
+
+  npm install
+
+  npm run dev
